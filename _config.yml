@@ -14,7 +14,7 @@ source-code: https://github.com/ncflib
 
 # Site settings
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: BodiesMinds-Group1
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
@@ -23,7 +23,7 @@ description: "CollectionBuilder-GH is a template for creating small digital coll
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # collection project date, when did you publish this
-collection-date: "2019"
+collection-date: "2020"
 
 # Collection settings
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
