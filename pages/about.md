@@ -9,3 +9,4 @@ permalink: /about/
 
 # About {{ site.title }}.
 
+Include information here. 
